@@ -1,4 +1,4 @@
-# Android Prework - *Name of App Here*
+# Android Prework
 
 Submitted by: Arturo Corona
 
